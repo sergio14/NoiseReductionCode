@@ -1,0 +1,25 @@
+indear_2012
+{
+        mid = "MID_1", "ACGAGTGCGT", 0;
+        mid = "MID_2", "ACGCTCGACA", 0;
+        mid = "MID_3", "AGACGCACTC", 0;
+        mid = "MID_4", "AGCACTGTAG", 0;
+        mid = "MID_5", "ATCAGACACG", 0;
+        mid = "MID_6", "ATATCGCGAG", 0;
+        mid = "MID_27", "ACGCGAGTAT", 0;
+        mid = "MID_28", "ACTACTATGT", 0;
+        mid = "MID_29", "ACTGTACAGT", 0;
+        mid = "MID_10", "TCTCTATGCG", 0;
+        mid = "MID_11", "TGATACGTCT", 0;
+        mid = "MID_22", "TACGAGTATG", 0;
+        mid = "MID_13", "CATAGTAGTG", 0;
+        mid = "MID_14", "CGAGAGATAC", 0;
+        mid = "MID_15", "ATACGACGTA", 0;
+        mid = "MID_16", "TCACGTACTA", 0;
+        mid = "MID_17", "CGTCTAGTAC", 0;
+        mid = "MID_18", "TCTACGTAGC", 0;
+        mid = "MID_19", "TGTACTACTC", 0;
+        mid = "MID_20", "ACGACTACAG", 0;
+}
+
+
